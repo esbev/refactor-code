@@ -58,7 +58,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    /* not sure what to do with the alt attribute
+    /* not sure what to do with the alt attribute here
     alt: "people collaborating on a project at a desk";
     */
 }
@@ -89,6 +89,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 
 /* consolidated repetitious code for classes here and changed class name*/
 .benefit {
@@ -143,7 +144,9 @@ p {
     max-width: 150px;
 }
 */
-.search-engine-optimization {
+
+/* consolidated repetitious code here and changed class name*/
+.SOS-elements {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -151,7 +154,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* commented out original repititious code
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -169,11 +172,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/
 
-.search-engine-optimization img {
+/* consolidated repetitious code here and changed class name*/
+.SOS-elements img {
     max-height: 200px;
 }
 
+/* commented out original repititious code
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -181,12 +187,14 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
 
-.search-engine-optimization h2 {
+/* consolidated repetitious code here and changed class name*/
+.SOS-elements h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* commented out original repititious code
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -196,6 +204,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
 .footer {
     padding: 30px;
@@ -204,6 +213,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
