@@ -1,4 +1,4 @@
-# Name
+# Challenge Week 1
 
 ## Description
 
