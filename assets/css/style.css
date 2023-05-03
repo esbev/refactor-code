@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header and header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,27 +20,32 @@ body {
     font-size: 48px;
 }
 
+/* changes the color of SEO */
+
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* nav bar styling */
+
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    /* added quotations around 'font-family' property Calibri*/
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* styling */
 
 a {
     color: #ffffff;
@@ -50,7 +55,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* the background image for the top of the page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,10 +63,9 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    /* not sure what to do with the alt attribute here
-    alt: "people collaborating on a project at a desk";
-    */
 }
+
+/* floats */
 
 .float-left {
     float: left;
@@ -73,11 +77,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Main */
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits aside */
 
 .benefits {
     margin-right: 20px;
@@ -206,13 +214,15 @@ p {
 }
 */
 
-.footer {
+/* styling for the footer */
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
