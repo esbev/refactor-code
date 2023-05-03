@@ -10,13 +10,15 @@ Here I used existing code from the client to take the their needs and adjust the
     - [CSSBox Information](#cssbox-information)
     - [Git Cheat Sheet](#git-cheat-sheet)
     - [Git Flow Process](#git-flow-process)
-    - [HTML References](#html-references)
+    - [HTML References](#html-reference-guide)
     - [Markdown Language](#markdown-language-cheat-sheet)
 - [License](#license)
 
 ## Website Preview
 
 [Horiseon Website](https://esbev.github.io/challenge-week-1/)
+
+[![name](assets/images/horiseon.jpg)](https://esbev.github.io/challenge-week-1/)
 
 ## Credits
 NOTE: Click on the thumbnail to view source
@@ -33,7 +35,7 @@ NOTE: Click on the thumbnail to view source
 ### Git Flow process
 [![name](assets/images/gitflow.jpg)](https://docs.github.com/en/get-started/quickstart/github-flow)
 
-### HTML References
+### HTML Reference Guide
 [![name](assets/images/htmlref.jpg)](https://www.dofactory.com/html/ref)
 
 ### Markdown Language Cheat Sheet
