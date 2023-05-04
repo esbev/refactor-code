@@ -1,7 +1,7 @@
 # Challenge Week 1
 
 ## Description
-Here I used existing code from the client to take the their needs and adjust the code accordingly. This project was build to take client's needs and translate that into updated code on the current website. This project solves some functionality issues on the client website and updates the current code on the .html and .css files using semantic code with appropriate commenting. Here I was able to gain a glimpseof what it is like debug existing code and locate opportunities for improved readability and flow.
+Here I used existing code from the client to take the their needs and adjust the code accordingly. This project was build to take client's needs and translate that into updated code on the current website. This project solves some functionality issues on the client website and updates the current code on the .html and .css files using semantic code with appropriate commenting. Here I was able to gain a glimpse of what it is like debug existing code and locate opportunities for improved readability and flow.
 
 ## Table of Contents
 - [Website Preview](#website-preview)
@@ -12,6 +12,7 @@ Here I used existing code from the client to take the their needs and adjust the
     - [Git Flow Process](#git-flow-process)
     - [HTML References](#html-reference-guide)
     - [Markdown Language](#markdown-language-cheat-sheet)
+- [Special Thanks](#special-thanks)
 - [License](#license)
 
 ## Website Preview
@@ -21,25 +22,36 @@ Here I used existing code from the client to take the their needs and adjust the
 [![name](assets/images/horiseon.jpg)](https://esbev.github.io/challenge-week-1/)
 
 ## Credits
+
 NOTE: Click on the thumbnail to view source
 
-### CSS Information
-[![name](assets/images/css.jpg)](https://cssreference.io/)
+- ### CSS Information
 
-### CSSBox Information
-[![name](assets/images/cssbox.jpg)](https://www.w3schools.com/css/css_boxmodel.asp)
+    [![name](assets/images/css.jpg)](https://cssreference.io/)
 
-### Git Cheat Sheet
-[![name](assets/images/gitcheat.jpg)](https://education.github.com/git-cheat-sheet-education.pdf)
+- ### CSSBox Information
 
-### Git Flow process
-[![name](assets/images/gitflow.jpg)](https://docs.github.com/en/get-started/quickstart/github-flow)
+    [![name](assets/images/cssbox.jpg)](https://www.w3schools.com/css/css_boxmodel.asp)
 
-### HTML Reference Guide
-[![name](assets/images/htmlref.jpg)](https://www.dofactory.com/html/ref)
+- ### Git Cheat Sheet
 
-### Markdown Language Cheat Sheet
-[![name](assets/images/mdcheat.jpg)](https://www.markdownguide.org/cheat-sheet/)
+    [![name](assets/images/gitcheat.jpg)](https://education.github.com/git-cheat-sheet-education.pdf)
+
+- ### Git Flow process
+
+    [![name](assets/images/gitflow.jpg)](https://docs.github.com/en/get-started/quickstart/github-flow)
+
+- ### HTML Reference Guide
+
+    [![name](assets/images/htmlref.jpg)](https://www.dofactory.com/html/ref)
+
+- ### Markdown Language Cheat Sheet
+
+    [![name](assets/images/mdcheat.jpg)](https://www.markdownguide.org/cheat-sheet/)
+
+## Special Thanks
+
+Thanks goes out to all the instructors and teacher assistants for their clear instruction and prompt and thorough answers to all my questions. Also, to all the students who joined in the study groups for their active participation and alternative perspectives. I was able to gain multiple insights I otherwise may not have gained towards the project without them. There is always strength in numbers.
 
 ## License
 
